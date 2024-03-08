@@ -1,4 +1,4 @@
-# testapi-day2-pp2
+# testapi-day1-p1
 Real-Time Chat Application with SocketIo, FastAPI, TortoiseORM
 Overview
 
